@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5DA9DB22-F03D-4E91-B458-D5DDB60A822C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MinitelStats/QCM.cs">
+    <Files>
+      <File FileName="MinitelStats/Program.cs" Line="81" Column="69" />
+      <File FileName="MinitelStats/Gamer.cs" Line="6" Column="19" />
+      <File FileName="MinitelStats/Questions.cs" Line="9" Column="24" />
+      <File FileName="MinitelStats/QCM.cs" Line="12" Column="11238" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MinitelStats PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

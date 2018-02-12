@@ -1,0 +1,5 @@
+/Users/sfardoux/SkyDrive/PROJETS/MinitelStats/MinitelStats/bin/Debug/MinitelStats.exe
+/Users/sfardoux/SkyDrive/PROJETS/MinitelStats/MinitelStats/bin/Debug/MinitelStats.pdb
+/Users/sfardoux/SkyDrive/PROJETS/MinitelStats/MinitelStats/obj/x86/Debug/MinitelStats.csproj.CoreCompileInputs.cache
+/Users/sfardoux/SkyDrive/PROJETS/MinitelStats/MinitelStats/obj/x86/Debug/MinitelStats.exe
+/Users/sfardoux/SkyDrive/PROJETS/MinitelStats/MinitelStats/obj/x86/Debug/MinitelStats.pdb
